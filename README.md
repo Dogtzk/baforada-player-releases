@@ -12,12 +12,12 @@ Se já usava a versão ZIP, escolha a pasta onde está **VibePlayer.exe** para m
 
 ## Baixar para Android
 
-[Baixar APK Android 1.6.0](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.0/BaforadaPlayer-Android-1.6.0.apk)
+[Baixar APK Android 1.6.1](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.1/BaforadaPlayer-Android-1.6.1.apk)
 
 Compatível com Android 9 ou superior. Baixe e abra o APK no celular para instalar ou atualizar. O nome dentro do app permanece igual.
 
 ## Atualizações no Windows
 
-Depois da primeira instalação, o aplicativo verifica novas versões automaticamente. Em **Configurações → Atualizações do aplicativo**, escolha **Baixar atualização** e depois **Instalar e reiniciar**. Os arquivos baixados, as playlists e as configurações são mantidos. As atualizações futuras serão disponibilizadas por este mesmo repositório; não é necessário reenviar arquivos aos amigos.
+Depois da primeira instalação, o aplicativo verifica novas versões automaticamente a cada 30 minutos, mesmo minimizado. Um ponto laranja no ícone de Configurações indica que há uma atualização disponível. Em **Configurações → Atualizações do aplicativo**, escolha **Baixar atualização** e depois **Instalar e reiniciar**. Os arquivos baixados, as playlists e as configurações são mantidos. As atualizações futuras serão disponibilizadas por este mesmo repositório; não é necessário reenviar arquivos aos amigos.
 
 Este repositório contém apenas instruções e arquivos de distribuição. Bibliotecas pessoais, senhas, tokens e a chave privada de publicação não são enviados.
