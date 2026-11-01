@@ -10,7 +10,13 @@ Baixe o arquivo **BaforadaPlayer-Setup-VERSÃO.exe** e execute o instalador. Nã
 
 Se já usava a versão ZIP, escolha a pasta onde está **VibePlayer.exe** para manter também a biblioteca e os downloads locais. Na mesma conta do Vibe, playlists e capas sincronizam entre os aparelhos.
 
-## Atualizações
+## Baixar para Android
+
+[Baixar APK Android 1.5.0](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.7.1/BaforadaPlayer-Android-1.5.0.apk)
+
+Compatível com Android 9 ou superior. Baixe e abra o APK no celular para instalar ou atualizar. O nome dentro do app permanece igual.
+
+## Atualizações no Windows
 
 Depois da primeira instalação, o aplicativo verifica novas versões automaticamente. Em **Configurações → Atualizações do aplicativo**, escolha **Baixar atualização** e depois **Instalar e reiniciar**. Os arquivos baixados, as playlists e as configurações são mantidos. As atualizações futuras serão disponibilizadas por este mesmo repositório; não é necessário reenviar arquivos aos amigos.
 
