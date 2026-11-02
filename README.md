@@ -12,7 +12,7 @@ Se já usava a versão ZIP, escolha a pasta onde está **VibePlayer.exe** para m
 
 ## Baixar para Android
 
-[Baixar APK Android 1.6.3](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.4/BaforadaPlayer-Android-1.6.3.apk)
+[Baixar APK Android 1.6.4](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.5/BaforadaPlayer-Android-1.6.4.apk)
 
 Compatível com Android 9 ou superior. Baixe e abra o APK no celular para instalar ou atualizar. O nome dentro do app permanece igual.
 
