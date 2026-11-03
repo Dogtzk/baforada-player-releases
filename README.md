@@ -12,7 +12,7 @@ Se já usava a versão ZIP, escolha a pasta onde está **VibePlayer.exe** para m
 
 ## Baixar para Android
 
-[Baixar APK Android 1.6.14](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.18/BaforadaPlayer-Android-1.6.14.apk)
+[Baixar APK Android 1.6.15](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.19/BaforadaPlayer-Android-1.6.15.apk)
 
 Compatível com Android 9 ou superior. Baixe e abra o APK no celular para instalar ou atualizar. O nome dentro do app permanece igual.
 
@@ -53,3 +53,7 @@ Windows 1.8.17 e Android 1.6.13: tela Início com atalhos, recentes, redescobert
 ### Seleção em lote e capas
 
 Windows 1.8.18 e Android 1.6.14: em Selecionar músicas, marque faixas da biblioteca, playlists ou resultados de busca e use Baixar selecionadas ou Adicionar à playlist. Selecionar tudo inclui as faixas além da página visível; no PC, Shift seleciona intervalos. Capas com bordas pretas em fontes compatíveis são recortadas apenas na exibição, preservando o arquivo original.
+
+### Perfil mensal e fontes indisponíveis
+
+Windows 1.8.19 e Android 1.6.15: foto, nome e descrição do perfil junto ao resumo mensal. Fontes indisponíveis são puladas sem remover as músicas da playlist, com proteção contra listas sem faixas reproduzíveis e resultados atrasados de outra escolha. No Windows, botões da fila e Tocando agora com o mesmo tamanho e estilo.
