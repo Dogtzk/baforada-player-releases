@@ -12,7 +12,7 @@ Se já usava a versão ZIP, escolha a pasta onde está **VibePlayer.exe** para m
 
 ## Baixar para Android
 
-[Baixar APK Android 1.6.13](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.17/BaforadaPlayer-Android-1.6.13.apk)
+[Baixar APK Android 1.6.14](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.18/BaforadaPlayer-Android-1.6.14.apk)
 
 Compatível com Android 9 ou superior. Baixe e abra o APK no celular para instalar ou atualizar. O nome dentro do app permanece igual.
 
@@ -49,3 +49,7 @@ Windows 1.8.15: ursinhos Dropout Bear apenas nos ícones da barra de tarefas do 
 ### Início, recomendações e fila
 
 Windows 1.8.17 e Android 1.6.13: tela Início com atalhos, recentes, redescobertas e sugestões parecidas com seus artistas. Recomendações em cada playlist com botão Adicionar. Novo painel de fila com histórico e cartão A seguir no Tocando agora.
+
+### Seleção em lote e capas
+
+Windows 1.8.18 e Android 1.6.14: em Selecionar músicas, marque faixas da biblioteca, playlists ou resultados de busca e use Baixar selecionadas ou Adicionar à playlist. Selecionar tudo inclui as faixas além da página visível; no PC, Shift seleciona intervalos. Capas com bordas pretas em fontes compatíveis são recortadas apenas na exibição, preservando o arquivo original.
