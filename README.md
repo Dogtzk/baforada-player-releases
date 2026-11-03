@@ -12,7 +12,7 @@ Se já usava a versão ZIP, escolha a pasta onde está **VibePlayer.exe** para m
 
 ## Baixar para Android
 
-[Baixar APK Android 1.6.6](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.7/BaforadaPlayer-Android-1.6.6.apk)
+[Baixar APK Android 1.6.7](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.8/BaforadaPlayer-Android-1.6.7.apk)
 
 Compatível com Android 9 ou superior. Baixe e abra o APK no celular para instalar ou atualizar. O nome dentro do app permanece igual.
 
@@ -24,4 +24,8 @@ Este repositório contém apenas instruções e arquivos de distribuição. Bibl
 
 ### Atualização no Android
 
-A partir do Android 1.6.6, o aplicativo avisa em Ajustes e permite baixar novas versões. O Android pede sua confirmação para instalar. Quem usa uma versão anterior precisa instalar o APK 1.6.6 uma vez, mantendo o app instalado para preservar os dados. Compatível com Android 9 ou superior.
+A partir do Android 1.6.7, o aplicativo avisa em Ajustes e permite baixar novas versões. O Android pede sua confirmação para instalar. Quem usa uma versão anterior precisa instalar o APK 1.6.6 uma vez, mantendo o app instalado para preservar os dados. Compatível com Android 9 ou superior.
+
+### Temas personalizados
+
+Em Temas → Criar +, personalize cores, fotos de banner e fundos, fonte, ícones, nome e aparência do player com prévia ao vivo. Salve, edite, duplique ou exclua seus temas. Os temas ficam salvos neste aparelho e acompanham a exportação da biblioteca. Disponível no Windows 1.8.8 e Android 1.6.7.
