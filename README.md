@@ -12,7 +12,7 @@ Se já usava a versão ZIP, escolha a pasta onde está **VibePlayer.exe** para m
 
 ## Baixar para Android
 
-[Baixar APK Android 1.6.17](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.21/BaforadaPlayer-Android-1.6.17.apk)
+[Baixar APK Android 1.6.18](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.22/BaforadaPlayer-Android-1.6.18.apk)
 
 Compatível com Android 9 ou superior. Baixe e abra o APK no celular para instalar ou atualizar. O nome dentro do app permanece igual.
 
@@ -61,3 +61,7 @@ Windows 1.8.19 e Android 1.6.15: foto, nome e descrição do perfil junto ao res
 ### Cache, busca e reprodução — Windows 1.8.21 / Android 1.6.17
 
 Cache persistente de fontes públicas com expiração e invalidação. Primeiro play usa consulta leve e conexão preparada, com repetição em falhas transitórias. Menos trabalho na interface e processos auxiliares limitados. Busca reconhece títulos em japonês escritos em letras latinas quando os metadados confirmam a equivalência e preserva o canal oficial. Setas nas extremidades das listas horizontais, ajustes no relógio e seleção de letras sincronizadas, Top 10 mensal e artistas mais ouvidos. Android 1.6.17. Biblioteca e personalizações preservadas. Nos testes normais do Windows, início em 0,32 s e reabertura com cache em 0,06 s. A demora observada durante compilação simultânea ainda está em investigação; não há garantia desse tempo sob carga ou em outras conexões.
+
+### Cache, busca e reprodução — Windows 1.8.22 / Android 1.6.18
+
+Corrigido carregamento de fotos de artistas pelo CDN atual da Wikimedia, incluindo Radiohead. Reconhecimento de bandas descritas como trio ou duo. Quando não há foto no Wikidata, o app procura a imagem do canal oficial confirmado; imagens indisponíveis mostram um ícone sem texto alternativo quebrado. Início da música atualiza apenas os cartões recentes necessários e mantém as recomendações existentes. Conversão de capa para controles de mídia usa codificação assíncrona, e no Windows, processos auxiliares de recomendações recebem prioridade reduzida. Inclui Android 1.6.18. Biblioteca, conta, temas e downloads preservados. Picos dependentes de decodificação e carga do sistema ainda podem ocorrer.
