@@ -12,7 +12,7 @@ Se já usava a versão ZIP, escolha a pasta onde está **VibePlayer.exe** para m
 
 ## Baixar para Android
 
-[Baixar APK Android 1.6.20](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.24/BaforadaPlayer-Android-1.6.20.apk)
+[Baixar APK Android 1.6.21](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.25/BaforadaPlayer-Android-1.6.21.apk)
 
 Compatível com Android 9 ou superior. Baixe e abra o APK no celular para instalar ou atualizar. O nome dentro do app permanece igual.
 
@@ -73,3 +73,7 @@ No Início, Tocadas recentemente mostra uma seleção aleatória de até oito m�
 ### Cache, busca e reprodução — Windows 1.8.24 / Android 1.6.20
 
 No Windows, retornar a uma faixa durante o fade cancela seu encerramento antigo; o temporizador não pode parar o áudio ativo. Recuperação limitada de pausas técnicas inesperadas, respeitando pausas feitas no app ou pelas teclas de mídia. A ordem inteligente valida subgêneros antes das respostas parciais e da seleção local, evitando tratar emo, hard rock e metal como equivalentes e impedindo deriva de estilo pelo mix ou pela próxima faixa. Consultas de metadados limitadas e com cache, sem reintroduzir o extrator pesado nas recomendações. Perfis oficiais dos artistas têm prioridade sobre fotos da Wikimedia; canais oficiais de artista precedem Topic. Inclui Android 1.6.20. Biblioteca, temas, conta e downloads preservados.
+
+### Artistas, amigos e playlists — Windows 1.8.25 / Android 1.6.21
+
+Páginas de artistas com foto, apresentação, músicas e discografia. Abra um álbum para consultar e tocar suas faixas usando as fontes completas disponíveis. Siga artistas e amigos pela conta do player; busque amigos pelo nome de usuário em Artistas e amigos. Foto e apresentação públicas são opcionais e publicadas apenas pelo próprio usuário; biblioteca, curtidas e histórico permanecem privados. Recursos disponíveis no PC e Android 1.6.21, com sincronização dos artistas e amigos seguidos. Mantém as correções de reprodução, ordem inteligente e fotos oficiais da versão anterior. Cabeçalho de playlist redesenhado com capa e título lado a lado, ações alinhadas e organização responsiva. Botão de repetir à direita, logo após o botão de próxima música, com estado visível e sincronizado.
