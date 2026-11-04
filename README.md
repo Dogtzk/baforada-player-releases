@@ -12,7 +12,7 @@ Se já usava a versão ZIP, escolha a pasta onde está **VibePlayer.exe** para m
 
 ## Baixar para Android
 
-[Baixar APK Android 1.6.22](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.26/BaforadaPlayer-Android-1.6.22.apk)
+[Baixar APK Android 1.6.23](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.27/BaforadaPlayer-Android-1.6.23.apk)
 
 Compatível com Android 9 ou superior. Baixe e abra o APK no celular para instalar ou atualizar. O nome dentro do app permanece igual.
 
@@ -81,3 +81,7 @@ Páginas de artistas com foto, apresentação, músicas e discografia. Abra um �
 ### Navegação, perfil e busca — Windows 1.8.26 / Android 1.6.22
 
 Navegação reorganizada: fila permanece na barra inferior e Seu mês em música fica no menu do perfil. Mais espaço na lateral para playlists, capas maiores e itens alinhados. Perfil redesenhado com foto, apresentação e atalhos; sincronização e segurança em áreas recolhíveis. A busca principal agora mostra artistas e amigos, além das músicas, e permite abrir seus perfis. Amigos podem ser encontrados pelo nome público ou @usuário. Sugestões independentes, com cache e proteção contra respostas antigas; as consultas de amigos não bloqueiam a busca musical. Inclui Android 1.6.22. Biblioteca, temas, conta e downloads preservados.
+
+### Modo imersivo e temas na conta — Windows 1.8.27 / Android 1.6.23
+
+Temas personalizados sincronizam pela mesma conta, incluindo imagens, cores, ícones e edições. O tema escolhido continua independente por aparelho. Transferência de temas em lotes limitados por tamanho e armazenamento privado por usuário. Novo modo imersivo opcional: Barras de luz, Órbita, Aurora, Horizonte e Constelação, com análise do áudio real no PC e Android. Cores acompanhando a capa, intensidade e desfoque ajustáveis. Modo foco destaca capa e controles; opção de capa como vinil girando. Modo econômico de até 18 quadros por segundo, limite de resolução e animações interrompidas ao pausar ou colocar o app em segundo plano. Respeita movimento reduzido e não pede acesso ao microfone. Inclui Android 1.6.23. Biblioteca, downloads e conta preservados.
