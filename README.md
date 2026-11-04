@@ -12,7 +12,7 @@ Se já usava a versão ZIP, escolha a pasta onde está **VibePlayer.exe** para m
 
 ## Baixar para Android
 
-[Baixar APK Android 1.6.21](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.25/BaforadaPlayer-Android-1.6.21.apk)
+[Baixar APK Android 1.6.22](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.26/BaforadaPlayer-Android-1.6.22.apk)
 
 Compatível com Android 9 ou superior. Baixe e abra o APK no celular para instalar ou atualizar. O nome dentro do app permanece igual.
 
@@ -77,3 +77,7 @@ No Windows, retornar a uma faixa durante o fade cancela seu encerramento antigo;
 ### Artistas, amigos e playlists — Windows 1.8.25 / Android 1.6.21
 
 Páginas de artistas com foto, apresentação, músicas e discografia. Abra um álbum para consultar e tocar suas faixas usando as fontes completas disponíveis. Siga artistas e amigos pela conta do player; busque amigos pelo nome de usuário em Artistas e amigos. Foto e apresentação públicas são opcionais e publicadas apenas pelo próprio usuário; biblioteca, curtidas e histórico permanecem privados. Recursos disponíveis no PC e Android 1.6.21, com sincronização dos artistas e amigos seguidos. Mantém as correções de reprodução, ordem inteligente e fotos oficiais da versão anterior. Cabeçalho de playlist redesenhado com capa e título lado a lado, ações alinhadas e organização responsiva. Botão de repetir à direita, logo após o botão de próxima música, com estado visível e sincronizado.
+
+### Navegação, perfil e busca — Windows 1.8.26 / Android 1.6.22
+
+Navegação reorganizada: fila permanece na barra inferior e Seu mês em música fica no menu do perfil. Mais espaço na lateral para playlists, capas maiores e itens alinhados. Perfil redesenhado com foto, apresentação e atalhos; sincronização e segurança em áreas recolhíveis. A busca principal agora mostra artistas e amigos, além das músicas, e permite abrir seus perfis. Amigos podem ser encontrados pelo nome público ou @usuário. Sugestões independentes, com cache e proteção contra respostas antigas; as consultas de amigos não bloqueiam a busca musical. Inclui Android 1.6.22. Biblioteca, temas, conta e downloads preservados.
