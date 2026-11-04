@@ -12,7 +12,7 @@ Se já usava a versão ZIP, escolha a pasta onde está **VibePlayer.exe** para m
 
 ## Baixar para Android
 
-[Baixar APK Android 1.6.23](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.27/BaforadaPlayer-Android-1.6.23.apk)
+[Baixar APK Android 1.6.24](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.28/BaforadaPlayer-Android-1.6.24.apk)
 
 Compatível com Android 9 ou superior. Baixe e abra o APK no celular para instalar ou atualizar. O nome dentro do app permanece igual.
 
@@ -85,3 +85,7 @@ Navegação reorganizada: fila permanece na barra inferior e Seu mês em música
 ### Modo imersivo e temas na conta — Windows 1.8.27 / Android 1.6.23
 
 Temas personalizados sincronizam pela mesma conta, incluindo imagens, cores, ícones e edições. O tema escolhido continua independente por aparelho. Transferência de temas em lotes limitados por tamanho e armazenamento privado por usuário. Novo modo imersivo opcional: Barras de luz, Órbita, Aurora, Horizonte e Constelação, com análise do áudio real no PC e Android. Cores acompanhando a capa, intensidade e desfoque ajustáveis. Modo foco destaca capa e controles; opção de capa como vinil girando. Modo econômico de até 18 quadros por segundo, limite de resolução e animações interrompidas ao pausar ou colocar o app em segundo plano. Respeita movimento reduzido e não pede acesso ao microfone. Inclui Android 1.6.23. Biblioteca, downloads e conta preservados.
+
+### Visualizador e organização de playlists — Windows 1.8.28 / Android 1.6.24
+
+Visualizador corrigido: espectro desenhado dentro da área visível, sem barras dos graves cobertas pela lateral ou base escondida sob o player. Maior contraste no fundo do modo foco. Mensagem de estado nas configurações e opção explícita para respeitar ou permitir animação quando o sistema pede movimento reduzido. Organizar músicas agora mantém a faixa visível ao mover para posições distantes, usa páginas de até 60 faixas e oferece busca por música ou artista. Foco de teclado preservado, atalhos Alt+setas e proteção contra duplo clique que desfazia a movimentação. Confirmação de ordem gravada antes de fechar; falhas e mudanças concorrentes mantêm a edição disponível para revisão ou nova tentativa. A ordem manual é usada no modo Em ordem, indicado na janela. Inclui Android 1.6.24, com temas, biblioteca e conta preservados.
