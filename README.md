@@ -12,7 +12,7 @@ Se já usava a versão ZIP, escolha a pasta onde está **VibePlayer.exe** para m
 
 ## Baixar para Android
 
-[Baixar APK Android 1.6.24](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.28/BaforadaPlayer-Android-1.6.24.apk)
+[Baixar APK Android 1.6.25](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.29/BaforadaPlayer-Android-1.6.25.apk)
 
 Compatível com Android 9 ou superior. Baixe e abra o APK no celular para instalar ou atualizar. O nome dentro do app permanece igual.
 
@@ -89,3 +89,7 @@ Temas personalizados sincronizam pela mesma conta, incluindo imagens, cores, íc
 ### Visualizador e organização de playlists — Windows 1.8.28 / Android 1.6.24
 
 Visualizador corrigido: espectro desenhado dentro da área visível, sem barras dos graves cobertas pela lateral ou base escondida sob o player. Maior contraste no fundo do modo foco. Mensagem de estado nas configurações e opção explícita para respeitar ou permitir animação quando o sistema pede movimento reduzido. Organizar músicas agora mantém a faixa visível ao mover para posições distantes, usa páginas de até 60 faixas e oferece busca por música ou artista. Foco de teclado preservado, atalhos Alt+setas e proteção contra duplo clique que desfazia a movimentação. Confirmação de ordem gravada antes de fechar; falhas e mudanças concorrentes mantêm a edição disponível para revisão ou nova tentativa. A ordem manual é usada no modo Em ordem, indicado na janela. Inclui Android 1.6.24, com temas, biblioteca e conta preservados.
+
+### Fontes e recuperação do áudio — Windows 1.8.29 / Android 1.6.25
+
+No PC, os cabeçalhos da música atual e das faixas pré-carregadas são isolados por sessão de áudio, evitando interferência entre fontes. Monitoramento de reprodução travada: tentativa limitada de retomada e reconexão no mesmo ponto, respeitando pausa, retomada e troca de faixa. Falhas do dispositivo de áudio não marcam a música como indisponível. Indicação de carregamento e diagnóstico copiável em Configurações. Links do YouTube Music, mobile, Shorts, live e embed são normalizados; links compartilhados do SoundCloud são resolvidos quando disponíveis. Consulta de metadados usa a página pública como alternativa ao oEmbed, com mensagens específicas da plataforma. Invalidação de fontes limpa a resolução antiga e não permite que pedidos anteriores restaurem cache obsoleto; validade de URLs temporárias é verificada. Transporte de rede preservado na recuperação e no SoundCloud. Inclui Android 1.6.25 com as correções compartilhadas de links e fontes.
