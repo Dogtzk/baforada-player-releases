@@ -12,7 +12,7 @@ Se já usava a versão ZIP, escolha a pasta onde está **VibePlayer.exe** para m
 
 ## Baixar para Android
 
-[Baixar APK Android 1.6.18](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.22/BaforadaPlayer-Android-1.6.18.apk)
+[Baixar APK Android 1.6.19](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.23/BaforadaPlayer-Android-1.6.19.apk)
 
 Compatível com Android 9 ou superior. Baixe e abra o APK no celular para instalar ou atualizar. O nome dentro do app permanece igual.
 
@@ -65,3 +65,7 @@ Cache persistente de fontes públicas com expiração e invalidação. Primeiro 
 ### Cache, busca e reprodução — Windows 1.8.22 / Android 1.6.18
 
 Corrigido carregamento de fotos de artistas pelo CDN atual da Wikimedia, incluindo Radiohead. Reconhecimento de bandas descritas como trio ou duo. Quando não há foto no Wikidata, o app procura a imagem do canal oficial confirmado; imagens indisponíveis mostram um ícone sem texto alternativo quebrado. Início da música atualiza apenas os cartões recentes necessários e mantém as recomendações existentes. Conversão de capa para controles de mídia usa codificação assíncrona, e no Windows, processos auxiliares de recomendações recebem prioridade reduzida. Inclui Android 1.6.18. Biblioteca, conta, temas e downloads preservados. Picos dependentes de decodificação e carga do sistema ainda podem ocorrer.
+
+### Cache, busca e reprodução — Windows 1.8.23 / Android 1.6.19
+
+No Início, Tocadas recentemente mostra uma seleção aleatória de até oito músicas ouvidas nos últimos 30 dias, incluindo o modo inteligente; curtir sem ouvir não adiciona músicas. Botão Sortear novamente e seleção estável durante a reprodução. Recomendações consultam o catálogo e o mix público diretamente, sem iniciar o extrator externo. A análise de estilo deixa de resolver fontes de áudio completas de várias músicas ainda não tocadas, usa consultas leves e reaproveita resultados simultâneos; falhas de metadados têm cache curto para evitar repetição contínua. As buscas manuais e a reprodução mantêm suas alternativas de fonte. Inclui as fotos de artistas corrigidas, alternativa do canal oficial, proteção para imagens indisponíveis, atualização parcial dos cartões recentes e capa dos controles de mídia codificada de forma assíncrona. Android 1.6.19. Biblioteca, conta, temas e downloads preservados. Esta mudança remove trabalho desnecessário de fundo; decodificação do áudio e carga do sistema ainda podem causar picos breves. Fontes alternativas exigem formato somente de áudio, evitando baixar e decodificar vídeo desnecessariamente.
