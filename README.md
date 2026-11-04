@@ -12,7 +12,7 @@ Se já usava a versão ZIP, escolha a pasta onde está **VibePlayer.exe** para m
 
 ## Baixar para Android
 
-[Baixar APK Android 1.6.19](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.23/BaforadaPlayer-Android-1.6.19.apk)
+[Baixar APK Android 1.6.20](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.24/BaforadaPlayer-Android-1.6.20.apk)
 
 Compatível com Android 9 ou superior. Baixe e abra o APK no celular para instalar ou atualizar. O nome dentro do app permanece igual.
 
@@ -69,3 +69,7 @@ Corrigido carregamento de fotos de artistas pelo CDN atual da Wikimedia, incluin
 ### Cache, busca e reprodução — Windows 1.8.23 / Android 1.6.19
 
 No Início, Tocadas recentemente mostra uma seleção aleatória de até oito músicas ouvidas nos últimos 30 dias, incluindo o modo inteligente; curtir sem ouvir não adiciona músicas. Botão Sortear novamente e seleção estável durante a reprodução. Recomendações consultam o catálogo e o mix público diretamente, sem iniciar o extrator externo. A análise de estilo deixa de resolver fontes de áudio completas de várias músicas ainda não tocadas, usa consultas leves e reaproveita resultados simultâneos; falhas de metadados têm cache curto para evitar repetição contínua. As buscas manuais e a reprodução mantêm suas alternativas de fonte. Inclui as fotos de artistas corrigidas, alternativa do canal oficial, proteção para imagens indisponíveis, atualização parcial dos cartões recentes e capa dos controles de mídia codificada de forma assíncrona. Android 1.6.19. Biblioteca, conta, temas e downloads preservados. Esta mudança remove trabalho desnecessário de fundo; decodificação do áudio e carga do sistema ainda podem causar picos breves. Fontes alternativas exigem formato somente de áudio, evitando baixar e decodificar vídeo desnecessariamente.
+
+### Cache, busca e reprodução — Windows 1.8.24 / Android 1.6.20
+
+No Windows, retornar a uma faixa durante o fade cancela seu encerramento antigo; o temporizador não pode parar o áudio ativo. Recuperação limitada de pausas técnicas inesperadas, respeitando pausas feitas no app ou pelas teclas de mídia. A ordem inteligente valida subgêneros antes das respostas parciais e da seleção local, evitando tratar emo, hard rock e metal como equivalentes e impedindo deriva de estilo pelo mix ou pela próxima faixa. Consultas de metadados limitadas e com cache, sem reintroduzir o extrator pesado nas recomendações. Perfis oficiais dos artistas têm prioridade sobre fotos da Wikimedia; canais oficiais de artista precedem Topic. Inclui Android 1.6.20. Biblioteca, temas, conta e downloads preservados.
