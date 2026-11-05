@@ -4,9 +4,9 @@ Player feito por dogtzk. Os nomes dos temas dentro do aplicativo continuam como 
 
 ## Downloads
 
-[Baixar Windows 1.8.33](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.33/BafoPlayer-Setup-1.8.33.exe)
+[Baixar Windows 1.8.34](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.34/BafoPlayer-Setup-1.8.34.exe)
 
-[Baixar APK Android 1.6.28](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.33/BafoPlayer-Android-1.6.28.apk)
+[Baixar APK Android 1.6.29](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.34/BafoPlayer-Android-1.6.29.apk)
 
 ## Atualizações
 
@@ -14,7 +14,7 @@ O player verifica novas versões pelo próprio aplicativo. Em Configurações, p
 
 ## Nesta versão
 
-Reprodução no PC e Android: fontes online salvas que deixam de responder são verificadas e renovadas antes de desistir da faixa. Uma falha ao preparar o áudio recebe uma nova tentativa com fonte atualizada, dentro do prazo da tentativa original. Links temporários vencidos ou preparados há muito tempo deixam de ser reutilizados na troca de música. O cache em segundo plano passa pela mesma validação de validade. A recuperação respeita pausa, troca de faixa e cancelamento; não apaga arquivos offline nem altera playlists, conta ou temas. Inclui Android 1.6.28. Fontes removidas, privadas ou restritas continuam dependendo da disponibilidade do provedor.
+Ícones de play e pause redesenhados em SVG, com preenchimento sólido, cantos suaves e alinhamento central. A barra inferior e o painel Tocando agora usam os mesmos ícones no PC e Android; os botões também indicam Reproduzir ou Pausar para acessibilidade. O topo da barra lateral ficou mais compacto, com marca menor e menos espaço antes de Seu espaço, liberando área para navegação e playlists. A marca do tema (ícone e nome) agora funciona como botão para abrir o Início, inclusive pelo teclado. O atalho Início duplicado foi removido da lateral. Inclui Android 1.6.29.
 
 ## Compatibilidade
 
