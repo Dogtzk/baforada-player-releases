@@ -4,9 +4,9 @@ Player feito por dogtzk. Os nomes dos temas dentro do aplicativo continuam como 
 
 ## Downloads
 
-[Baixar Windows 1.8.34](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.34/BafoPlayer-Setup-1.8.34.exe)
+[Baixar Windows 1.8.35](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.35/BafoPlayer-Setup-1.8.35.exe)
 
-[Baixar APK Android 1.6.29](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.34/BafoPlayer-Android-1.6.29.apk)
+[Baixar APK Android 1.6.30](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.35/BafoPlayer-Android-1.6.30.apk)
 
 ## Atualizações
 
@@ -14,7 +14,7 @@ O player verifica novas versões pelo próprio aplicativo. Em Configurações, p
 
 ## Nesta versão
 
-Ícones de play e pause redesenhados em SVG, com preenchimento sólido, cantos suaves e alinhamento central. A barra inferior e o painel Tocando agora usam os mesmos ícones no PC e Android; os botões também indicam Reproduzir ou Pausar para acessibilidade. O topo da barra lateral ficou mais compacto, com marca menor e menos espaço antes de Seu espaço, liberando área para navegação e playlists. A marca do tema (ícone e nome) agora funciona como botão para abrir o Início, inclusive pelo teclado. O atalho Início duplicado foi removido da lateral. Inclui Android 1.6.29.
+Correções de remoção: o X no Android tem área de toque maior e a confirmação de remoção da biblioteca usa uma janela do próprio app. Remover uma faixa da playlist atualiza também sua sequência de reprodução. A lateral reúne playlists e artistas seguidos, com capas/avatares maiores e nomes mais legíveis; o menu do perfil fica com Amigos. Avisos globais: painel de administração no perfil, com título, mensagem, tipo, validade, prévia antes de publicar e opção de recolher. A permissão é validada no servidor; outras contas recebem os avisos no app e podem marcá-los como lidos. A consulta ocorre com o app aberto, em intervalos de até um minuto. É necessário atualizar os clientes para receber avisos. Inclui Android 1.6.30.
 
 ## Compatibilidade
 
