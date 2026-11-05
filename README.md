@@ -12,7 +12,7 @@ Se já usava a versão ZIP, escolha a pasta onde está **VibePlayer.exe** para m
 
 ## Baixar para Android
 
-[Baixar APK Android 1.6.26](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.30/BaforadaPlayer-Android-1.6.26.apk)
+[Baixar APK Android 1.6.26](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.31/BaforadaPlayer-Android-1.6.26.apk)
 
 Compatível com Android 9 ou superior. Baixe e abra o APK no celular para instalar ou atualizar. O nome dentro do app permanece igual.
 
@@ -97,3 +97,7 @@ No PC, os cabeçalhos da música atual e das faixas pré-carregadas são isolado
 ### Jam para ouvir junto — Windows 1.8.30 / Android 1.6.26
 
 Jam para ouvir junto no PC e Android: sala por código ou link que abre o aplicativo instalado, convites para os amigos seguidos e aviso de convites dentro do player. O anfitrião controla reprodução, pausa, posição e próxima faixa; convidados adicionam músicas à fila compartilhada e podem pausar só a própria escuta. Volume independente, entrada no ponto atual da música e correção de diferença de tempo. Reconexão e tentativa individual de uma fonte indisponível sem trocar a música da sala. Ao sair, a seleção anterior do convidado é restaurada pausada. Até 16 aparelhos por sala, com duração de até 6 horas. Cada aparelho precisa de internet e de acesso à fonte pública; a precisão depende da rede e do áudio disponível. Inclui Android 1.6.26.
+
+### Ícones temáticos no Discord — Windows 1.8.31 / Android 1.6.26
+
+Discord no PC: ícone pequeno da atividade acompanha a família do tema, com a logo da Kessoku Band enviada pelo usuário nos temas de Bocchi, escudo do Grêmio, nuvem do Cinnamoroll e símbolos para os demais temas. A capa da música continua separada; se ela não existir, o símbolo do tema serve de imagem alternativa. O nome exibido na atividade não inclui mais “made by dogtzk”. A troca do tema atualiza nome e símbolo sem interromper a reprodução. O controle/ícone fixo do aplicativo no canto do cartão é gerenciado pelo Discord e não muda individualmente por tema com um único aplicativo registrado; o símbolo dinâmico usa a imagem pequena da atividade, cuja posição depende do layout do Discord. A assinatura da janela do player continua preservada. Android permanece na versão 1.6.26, sem alterações; a integração de presença é do PC.
