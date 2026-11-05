@@ -4,9 +4,9 @@ Player feito por dogtzk. Os nomes dos temas dentro do aplicativo continuam como 
 
 ## Downloads
 
-[Baixar Windows 1.8.32](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.32/BafoPlayer-Setup-1.8.32.exe)
+[Baixar Windows 1.8.33](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.33/BafoPlayer-Setup-1.8.33.exe)
 
-[Baixar APK Android 1.6.27](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.32/BafoPlayer-Android-1.6.27.apk)
+[Baixar APK Android 1.6.28](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.33/BafoPlayer-Android-1.6.28.apk)
 
 ## Atualizações
 
@@ -14,7 +14,7 @@ O player verifica novas versões pelo próprio aplicativo. Em Configurações, p
 
 ## Nesta versão
 
-Distribuição renomeada para Bafo Player: novos arquivos BafoPlayer-Setup e BafoPlayer-Android, preservando os nomes dos temas, a identidade instalada, os dados e a compatibilidade com atualizações antigas. A ordem inteligente salva a faixa inicial, o estilo, as sugestões preparadas e o histórico da sessão no aparelho; reabrir e retomar não inicia a sessão a partir apenas do último artista. A busca de recomendações tem tempo limitado, varre novas posições e volta a tentar após resultados vazios. A espera no fim da faixa respeita pausa e retomada do usuário. Diagnóstico inclui o estado do inteligente, sem URLs ou credenciais. Letras: cálculo de rolagem corrigido, retorno automático após uma rolagem manual, opção Rolagem automática e botão Voltar à linha atual. A linha acompanha a posição real do áudio, inclusive ao avançar e voltar; letras sem timestamps continuam identificadas como não sincronizadas. Inclui Android 1.6.27 com as correções compartilhadas. A mudança do ícone fixo do canto por família de tema depende do cadastro das aplicações correspondentes no Discord; os emblemas pequenos existentes continuam funcionando.
+Reprodução no PC e Android: fontes online salvas que deixam de responder são verificadas e renovadas antes de desistir da faixa. Uma falha ao preparar o áudio recebe uma nova tentativa com fonte atualizada, dentro do prazo da tentativa original. Links temporários vencidos ou preparados há muito tempo deixam de ser reutilizados na troca de música. O cache em segundo plano passa pela mesma validação de validade. A recuperação respeita pausa, troca de faixa e cancelamento; não apaga arquivos offline nem altera playlists, conta ou temas. Inclui Android 1.6.28. Fontes removidas, privadas ou restritas continuam dependendo da disponibilidade do provedor.
 
 ## Compatibilidade
 
