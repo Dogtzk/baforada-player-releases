@@ -12,7 +12,7 @@ Se já usava a versão ZIP, escolha a pasta onde está **VibePlayer.exe** para m
 
 ## Baixar para Android
 
-[Baixar APK Android 1.6.25](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.29/BaforadaPlayer-Android-1.6.25.apk)
+[Baixar APK Android 1.6.26](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.30/BaforadaPlayer-Android-1.6.26.apk)
 
 Compatível com Android 9 ou superior. Baixe e abra o APK no celular para instalar ou atualizar. O nome dentro do app permanece igual.
 
@@ -93,3 +93,7 @@ Visualizador corrigido: espectro desenhado dentro da área visível, sem barras 
 ### Fontes e recuperação do áudio — Windows 1.8.29 / Android 1.6.25
 
 No PC, os cabeçalhos da música atual e das faixas pré-carregadas são isolados por sessão de áudio, evitando interferência entre fontes. Monitoramento de reprodução travada: tentativa limitada de retomada e reconexão no mesmo ponto, respeitando pausa, retomada e troca de faixa. Falhas do dispositivo de áudio não marcam a música como indisponível. Indicação de carregamento e diagnóstico copiável em Configurações. Links do YouTube Music, mobile, Shorts, live e embed são normalizados; links compartilhados do SoundCloud são resolvidos quando disponíveis. Consulta de metadados usa a página pública como alternativa ao oEmbed, com mensagens específicas da plataforma. Invalidação de fontes limpa a resolução antiga e não permite que pedidos anteriores restaurem cache obsoleto; validade de URLs temporárias é verificada. Transporte de rede preservado na recuperação e no SoundCloud. Inclui Android 1.6.25 com as correções compartilhadas de links e fontes.
+
+### Jam para ouvir junto — Windows 1.8.30 / Android 1.6.26
+
+Jam para ouvir junto no PC e Android: sala por código ou link que abre o aplicativo instalado, convites para os amigos seguidos e aviso de convites dentro do player. O anfitrião controla reprodução, pausa, posição e próxima faixa; convidados adicionam músicas à fila compartilhada e podem pausar só a própria escuta. Volume independente, entrada no ponto atual da música e correção de diferença de tempo. Reconexão e tentativa individual de uma fonte indisponível sem trocar a música da sala. Ao sair, a seleção anterior do convidado é restaurada pausada. Até 16 aparelhos por sala, com duração de até 6 horas. Cada aparelho precisa de internet e de acesso à fonte pública; a precisão depende da rede e do áudio disponível. Inclui Android 1.6.26.
