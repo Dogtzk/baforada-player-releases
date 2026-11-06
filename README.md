@@ -4,9 +4,9 @@ Player feito por dogtzk. Os nomes dos temas dentro do aplicativo continuam como 
 
 ## Downloads
 
-[Baixar Windows 1.8.35](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.35/BafoPlayer-Setup-1.8.35.exe)
+[Baixar Windows 1.8.36](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.36/BafoPlayer-Setup-1.8.36.exe)
 
-[Baixar APK Android 1.6.30](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.35/BafoPlayer-Android-1.6.30.apk)
+[Baixar APK Android 1.6.31](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.36/BafoPlayer-Android-1.6.31.apk)
 
 ## Atualizações
 
@@ -14,7 +14,13 @@ O player verifica novas versões pelo próprio aplicativo. Em Configurações, p
 
 ## Nesta versão
 
-Correções de remoção: o X no Android tem área de toque maior e a confirmação de remoção da biblioteca usa uma janela do próprio app. Remover uma faixa da playlist atualiza também sua sequência de reprodução. A lateral reúne playlists e artistas seguidos, com capas/avatares maiores e nomes mais legíveis; o menu do perfil fica com Amigos. Avisos globais: painel de administração no perfil, com título, mensagem, tipo, validade, prévia antes de publicar e opção de recolher. A permissão é validada no servidor; outras contas recebem os avisos no app e podem marcá-los como lidos. A consulta ocorre com o app aberto, em intervalos de até um minuto. É necessário atualizar os clientes para receber avisos. Inclui Android 1.6.30.
+Windows 1.8.36 · Android 1.6.31
+
+Ordem inteligente: artistas relacionados à referência original, com busca que percorre mais artistas e evita repetir sempre as mesmas bandas. Gêneros amplos como rock e alternative rock não contam como afinidades diferentes. A escolha da próxima faixa considera os últimos artistas tocados, mantendo a prioridade de fontes oficiais e o bloqueio de covers e remixes.
+
+Ao atualizar, sugestões preparadas pelo filtro antigo são descartadas; a música de referência e o histórico da sessão continuam salvos. Bibliotecas, contas, downloads e temas preservados.
+
+Testado com Charlie’s Inferno, emocore e rock alternativo; testes de retomada no PC e de integração do backend no Android. A afinidade usa metadados musicais e artistas relacionados e pode variar conforme as fontes.
 
 ## Compatibilidade
 
