@@ -4,9 +4,9 @@ Player feito por dogtzk. Os nomes dos temas dentro do aplicativo continuam como 
 
 ## Downloads
 
-[Baixar Windows 1.8.36](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.36/BafoPlayer-Setup-1.8.36.exe)
+[Baixar Windows 1.8.37](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.37/BafoPlayer-Setup-1.8.37.exe)
 
-[Baixar APK Android 1.6.31](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.36/BafoPlayer-Android-1.6.31.apk)
+[Baixar APK Android 1.6.32](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.37/BafoPlayer-Android-1.6.32.apk)
 
 ## Atualizações
 
@@ -14,13 +14,13 @@ O player verifica novas versões pelo próprio aplicativo. Em Configurações, p
 
 ## Nesta versão
 
-Windows 1.8.36 · Android 1.6.31
+Windows 1.8.37 · Android 1.6.32
 
-Ordem inteligente: artistas relacionados à referência original, com busca que percorre mais artistas e evita repetir sempre as mesmas bandas. Gêneros amplos como rock e alternative rock não contam como afinidades diferentes. A escolha da próxima faixa considera os últimos artistas tocados, mantendo a prioridade de fontes oficiais e o bloqueio de covers e remixes.
+Play nas playlists: botão Reproduzir destacado no cabeçalho, antes das ações de seleção e edição, usando as cores do tema. No celular, ocupa uma linha inteira para facilitar o toque. Respeita o modo Em ordem, Aleatório ou Inteligente e fica desativado em playlists vazias.
 
-Ao atualizar, sugestões preparadas pelo filtro antigo são descartadas; a música de referência e o histórico da sessão continuam salvos. Bibliotecas, contas, downloads e temas preservados.
+Ordem inteligente nas playlists: toca as faixas da própria playlist antes de buscar recomendações externas. Músicas ouvidas em sessões anteriores e faixas de outros estilos escolhidas para a playlist não são descartadas. A prioridade vale também para áudio pré-carregado, e o progresso é salvo ao fechar e reabrir. A fila adicionada manualmente mantém a prioridade.
 
-Testado com Charlie’s Inferno, emocore e rock alternativo; testes de retomada no PC e de integração do backend no Android. A afinidade usa metadados musicais e artistas relacionados e pode variar conforme as fontes.
+203 testes automatizados, sequência real de áudio no Windows e simulação da interface/ponte Android. Conta, biblioteca, downloads e temas preservados.
 
 ## Compatibilidade
 
