@@ -4,9 +4,9 @@ Player feito por dogtzk. Os nomes dos temas dentro do aplicativo continuam como 
 
 ## Downloads
 
-[Baixar Windows 1.8.38](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.38/BafoPlayer-Setup-1.8.38.exe)
+[Baixar Windows 1.8.39](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.39/BafoPlayer-Setup-1.8.39.exe)
 
-[Baixar APK Android 1.6.33](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.38/BafoPlayer-Android-1.6.33.apk)
+[Baixar APK Android 1.6.33](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.39/BafoPlayer-Android-1.6.33.apk)
 
 ## Atualizações
 
@@ -14,13 +14,15 @@ O player verifica novas versões pelo próprio aplicativo. Em Configurações, p
 
 ## Nesta versão
 
-Windows 1.8.38 · Android 1.6.33
+Windows 1.8.39 — Recuperação de buffering
 
-Reprodução: corrigida a sequência avançar, voltar enquanto a próxima faixa carrega e avançar novamente. Voltar agora cancela a navegação pendente, libera o botão Próxima e descarta carregamentos antigos antes de aceitar o novo comando, sem interromper a faixa ativa.
+A transferência de áudio progressivo agora tenta continuar do byte em que a conexão parou, com limite de tentativas, sem reiniciar a faixa inteira. A retomada verifica o intervalo e a identidade do arquivo para evitar áudio duplicado ou corrompido. Trocar de faixa cancela o pedido anterior.
 
-Discord no PC: removida a imagem extra de todos os temas, incluindo a logo da Kessoku Band. Capa da música, título, artista e nome temático continuam na presença; músicas sem capa não recebem a logo do tema como substituta.
+Quando o buffer está vazio e o tempo deixa de avançar, o player tenta recuperar após 3 segundos e renovar a fonte após 8 segundos, em vez de esperar até 25 segundos. A pausa manual continua respeitada.
 
-203 testes automatizados passaram, além da reprodução da falha e do teste de navegação rápida com áudio. Conta, biblioteca, downloads e temas preservados.
+212 testes automatizados passaram, incluindo interrupção da conexão, retomada exata, cancelamento e limites de tentativas. Testes de áudio na versão empacotada verificam a continuação sem reiniciar a música. Conta, biblioteca, downloads e temas preservados.
+
+A alteração é para PC. O Android permanece na versão 1.6.33, com o mesmo APK assinado da versão anterior.
 
 ## Compatibilidade
 
