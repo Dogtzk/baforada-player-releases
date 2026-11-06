@@ -4,9 +4,9 @@ Player feito por dogtzk. Os nomes dos temas dentro do aplicativo continuam como 
 
 ## Downloads
 
-[Baixar Windows 1.8.37](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.37/BafoPlayer-Setup-1.8.37.exe)
+[Baixar Windows 1.8.38](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.38/BafoPlayer-Setup-1.8.38.exe)
 
-[Baixar APK Android 1.6.32](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.37/BafoPlayer-Android-1.6.32.apk)
+[Baixar APK Android 1.6.33](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.38/BafoPlayer-Android-1.6.33.apk)
 
 ## Atualizações
 
@@ -14,13 +14,13 @@ O player verifica novas versões pelo próprio aplicativo. Em Configurações, p
 
 ## Nesta versão
 
-Windows 1.8.37 · Android 1.6.32
+Windows 1.8.38 · Android 1.6.33
 
-Play nas playlists: botão Reproduzir destacado no cabeçalho, antes das ações de seleção e edição, usando as cores do tema. No celular, ocupa uma linha inteira para facilitar o toque. Respeita o modo Em ordem, Aleatório ou Inteligente e fica desativado em playlists vazias.
+Reprodução: corrigida a sequência avançar, voltar enquanto a próxima faixa carrega e avançar novamente. Voltar agora cancela a navegação pendente, libera o botão Próxima e descarta carregamentos antigos antes de aceitar o novo comando, sem interromper a faixa ativa.
 
-Ordem inteligente nas playlists: toca as faixas da própria playlist antes de buscar recomendações externas. Músicas ouvidas em sessões anteriores e faixas de outros estilos escolhidas para a playlist não são descartadas. A prioridade vale também para áudio pré-carregado, e o progresso é salvo ao fechar e reabrir. A fila adicionada manualmente mantém a prioridade.
+Discord no PC: removida a imagem extra de todos os temas, incluindo a logo da Kessoku Band. Capa da música, título, artista e nome temático continuam na presença; músicas sem capa não recebem a logo do tema como substituta.
 
-203 testes automatizados, sequência real de áudio no Windows e simulação da interface/ponte Android. Conta, biblioteca, downloads e temas preservados.
+203 testes automatizados passaram, além da reprodução da falha e do teste de navegação rápida com áudio. Conta, biblioteca, downloads e temas preservados.
 
 ## Compatibilidade
 
