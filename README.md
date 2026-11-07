@@ -4,9 +4,9 @@ Player feito por dogtzk. Os nomes dos temas dentro do aplicativo continuam como 
 
 ## Downloads
 
-[Baixar Windows 1.8.39](https://github.com/Dogtzk/baforada-player-releases/releases/download/android-v1.6.34/BafoPlayer-Setup-1.8.39.exe)
+[Baixar Windows 1.8.40](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.40/BafoPlayer-Setup-1.8.40.exe)
 
-[Baixar APK Android 1.6.34](https://github.com/Dogtzk/baforada-player-releases/releases/download/android-v1.6.34/BafoPlayer-Android-1.6.34.apk)
+[Baixar APK Android 1.6.35](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.40/BafoPlayer-Android-1.6.35.apk)
 
 ## Atualizações
 
@@ -14,7 +14,7 @@ O player verifica novas versões pelo próprio aplicativo. Em Configurações, p
 
 ## Nesta versão
 
-Android 1.6.34: o volume agora é controlado somente pelos botões de mídia do celular. Removida a segunda barra de volume do app em telas verticais e horizontais; níveis antigos salvos no player não reduzem mais o áudio. O volume de mídia escolhido no Android é preservado. Windows 1.8.39 permanece sem alterações. O tema Femtanyl continua em rascunho e não está incluído nesta publicação.
+Novo tema Femtanyl com cinco variações e cinco imagens escolhidas por vocês: Token monocromático, A Minute rosa, CRT azul, Redline vermelho e Afterimage azul-violeta. Cores, botões, ícones e enquadramento combinam com cada arte. Disponível no PC e no Android. Android mantém somente o volume de mídia do celular, sem uma segunda barra no app. Biblioteca, conta, temas personalizados e downloads preservados.
 
 ## Compatibilidade
 
