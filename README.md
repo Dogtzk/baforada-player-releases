@@ -4,9 +4,9 @@ Player feito por dogtzk. Os nomes dos temas dentro do aplicativo continuam como 
 
 ## Downloads
 
-[Baixar Windows 1.8.40](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.40/BafoPlayer-Setup-1.8.40.exe)
+[Baixar Windows 1.8.41](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.41/BafoPlayer-Setup-1.8.41.exe)
 
-[Baixar APK Android 1.6.35](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.40/BafoPlayer-Android-1.6.35.apk)
+[Baixar APK Android 1.6.36](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.41/BafoPlayer-Android-1.6.36.apk)
 
 ## Atualizações
 
@@ -14,7 +14,7 @@ O player verifica novas versões pelo próprio aplicativo. Em Configurações, p
 
 ## Nesta versão
 
-Novo tema Femtanyl com cinco variações e cinco imagens escolhidas por vocês: Token monocromático, A Minute rosa, CRT azul, Redline vermelho e Afterimage azul-violeta. Cores, botões, ícones e enquadramento combinam com cada arte. Disponível no PC e no Android. Android mantém somente o volume de mídia do celular, sem uma segunda barra no app. Biblioteca, conta, temas personalizados e downloads preservados.
+Busca: playlists Mix por gênero e subgênero, com catálogo de mais de 2 mil gêneros, sugestões enquanto digita e opções para ver, salvar e reproduzir. As faixas são selecionadas por classificação do MusicBrainz; disponibilidade do áudio depende das fontes. Reprodução: a etapa de recomendações da playlist é salva e restaurada ao reabrir o app, sem reiniciar automaticamente suas faixas. Parecido com artistas: remove o próprio artista da seleção e usa o perfil musical do artista, com alternativa de metadados quando a primeira fonte falha, em vez de confiar só no gênero de uma faixa. Inclui reconhecimento de K-pop/J-pop. Windows 1.8.41 e Android 1.6.36. Conta, biblioteca, downloads e temas preservados.
 
 ## Compatibilidade
 
