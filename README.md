@@ -4,9 +4,9 @@ Player feito por dogtzk. Os nomes dos temas dentro do aplicativo continuam como 
 
 ## Downloads
 
-[Baixar Windows 1.8.41](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.41/BafoPlayer-Setup-1.8.41.exe)
+[Baixar Windows 1.8.42](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.42/BafoPlayer-Setup-1.8.42.exe)
 
-[Baixar APK Android 1.6.36](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.41/BafoPlayer-Android-1.6.36.apk)
+[Baixar APK Android 1.6.37](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.42/BafoPlayer-Android-1.6.37.apk)
 
 ## Atualizações
 
@@ -14,7 +14,7 @@ O player verifica novas versões pelo próprio aplicativo. Em Configurações, p
 
 ## Nesta versão
 
-Busca: playlists Mix por gênero e subgênero, com catálogo de mais de 2 mil gêneros, sugestões enquanto digita e opções para ver, salvar e reproduzir. As faixas são selecionadas por classificação do MusicBrainz; disponibilidade do áudio depende das fontes. Reprodução: a etapa de recomendações da playlist é salva e restaurada ao reabrir o app, sem reiniciar automaticamente suas faixas. Parecido com artistas: remove o próprio artista da seleção e usa o perfil musical do artista, com alternativa de metadados quando a primeira fonte falha, em vez de confiar só no gênero de uma faixa. Inclui reconhecimento de K-pop/J-pop. Windows 1.8.41 e Android 1.6.36. Conta, biblioteca, downloads e temas preservados.
+Android: corrigida a remoção de músicas baixadas. A confirmação agora aparece dentro do app, sem depender do diálogo do navegador. Cancelar mantém o download; confirmar remove somente a cópia offline deste aparelho, preservando biblioteca e playlists. Ao remover uma faixa offline em reprodução, o player para e libera o áudio; falhas são informadas e permitem tentar novamente. Organizar músicas: capas ao lado dos nomes no PC e no Android, acompanhando as faixas ao mover, buscar ou trocar de página, com ícone de apoio quando não há capa. Windows 1.8.42 e Android 1.6.37. Conta, biblioteca e temas preservados.
 
 ## Compatibilidade
 
