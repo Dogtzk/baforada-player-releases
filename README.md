@@ -4,9 +4,9 @@ Player feito por dogtzk. Os nomes dos temas dentro do aplicativo continuam como 
 
 ## Downloads
 
-[Baixar Windows 1.8.43](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.43/BafoPlayer-Setup-1.8.43.exe)
+[Baixar Windows 1.8.44](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.44/BafoPlayer-Setup-1.8.44.exe)
 
-[Baixar APK Android 1.6.38](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.43/BafoPlayer-Android-1.6.38.apk)
+[Baixar APK Android 1.6.39](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.44/BafoPlayer-Android-1.6.39.apk)
 
 ## Atualizações
 
@@ -14,7 +14,7 @@ O player verifica novas versões pelo próprio aplicativo. Em Configurações, p
 
 ## Nesta versão
 
-Corrigido o X na seção Modo offline no PC e no Android. Antes, ele removia o cadastro da biblioteca, mas mantinha o arquivo baixado; a música reaparecia na lista offline. Agora o X abre a confirmação de remoção do download e apaga somente a cópia deste aparelho, preservando biblioteca e playlists. O controle duplicado de download foi ocultado nessa seção e o X tem área de toque maior. A remoção usa a identidade do download existente, verifica a lista após apagar e informa se o aparelho ainda o mostra, sem anunciar sucesso incorretamente. Inclui proteção contra cliques repetidos, cancelamento e nova tentativa após falha. Windows 1.8.43 e Android 1.6.38.
+O botão de loop à direita de Próxima agora repete somente a música atual, incluindo nos modos Inteligente, Aleatório e Em ordem. Ele funciona independentemente da repetição de seleção e mostra um 1 quando ativado. A faixa volta ao início usando o áudio já aberto, sem preparar outra fonte a cada volta. Pular manualmente continua indo para a próxima faixa, e a pausa manual é respeitada mesmo durante a retomada. A preferência é salva ao fechar e reabrir o app. Repetição da seleção no cabeçalho continua separada. Windows 1.8.44 e Android 1.6.39. Conta, biblioteca, downloads e temas preservados.
 
 ## Compatibilidade
 
