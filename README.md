@@ -4,9 +4,9 @@ Player feito por dogtzk. Os nomes dos temas dentro do aplicativo continuam como 
 
 ## Downloads
 
-[Baixar Windows 1.8.45](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.45/BafoPlayer-Setup-1.8.45.exe)
+[Baixar Windows 1.8.46](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.46/BafoPlayer-Setup-1.8.46.exe)
 
-[Baixar APK Android 1.6.40](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.45/BafoPlayer-Android-1.6.40.apk)
+[Baixar APK Android 1.6.41](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.46/BafoPlayer-Android-1.6.41.apk)
 
 ## Atualizações
 
@@ -14,9 +14,7 @@ O player verifica novas versões pelo próprio aplicativo. Em Configurações, p
 
 ## Nesta versão
 
-Novo tema Hatsune Miku com cinco variações: Clássica, Sakura, Snow Miku, New Type e Palco. Cada uma tem arte, cores e ícones próprios, com layout adaptado para PC e Android. As artes completas permanecem visíveis e os fundos são estáticos, sem animações contínuas. Disponível em Temas → Hatsune Miku. Inclui Android 1.6.40.
-
-Artes: KEI / iXima; Hatsune Miku © Crypton Future Media, INC. Créditos e fontes incluídos no aplicativo.
+A fonte escolhida em Trocar fonte agora tem sua própria preferência na conta e acompanha a música entre PC e Android. Mudanças de metadados e buscas automáticas não substituem a escolha sincronizada. As fontes já registradas nos aparelhos são preservadas na atualização. Playlists e curtidas mantêm a mesma música. Se houver um download antigo, a reprodução online usa a nova fonte; o arquivo offline permanece no aparelho até ser removido ou baixado novamente. Atualize os dois aparelhos e entre na mesma conta. Inclui Android 1.6.41.
 
 ## Compatibilidade
 
