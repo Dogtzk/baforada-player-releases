@@ -4,9 +4,9 @@ Player feito por dogtzk. Os nomes dos temas dentro do aplicativo continuam como 
 
 ## Downloads
 
-[Baixar Windows 1.8.44](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.44/BafoPlayer-Setup-1.8.44.exe)
+[Baixar Windows 1.8.45](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.45/BafoPlayer-Setup-1.8.45.exe)
 
-[Baixar APK Android 1.6.39](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.44/BafoPlayer-Android-1.6.39.apk)
+[Baixar APK Android 1.6.40](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.45/BafoPlayer-Android-1.6.40.apk)
 
 ## Atualizações
 
@@ -14,7 +14,9 @@ O player verifica novas versões pelo próprio aplicativo. Em Configurações, p
 
 ## Nesta versão
 
-O botão de loop à direita de Próxima agora repete somente a música atual, incluindo nos modos Inteligente, Aleatório e Em ordem. Ele funciona independentemente da repetição de seleção e mostra um 1 quando ativado. A faixa volta ao início usando o áudio já aberto, sem preparar outra fonte a cada volta. Pular manualmente continua indo para a próxima faixa, e a pausa manual é respeitada mesmo durante a retomada. A preferência é salva ao fechar e reabrir o app. Repetição da seleção no cabeçalho continua separada. Windows 1.8.44 e Android 1.6.39. Conta, biblioteca, downloads e temas preservados.
+Novo tema Hatsune Miku com cinco variações: Clássica, Sakura, Snow Miku, New Type e Palco. Cada uma tem arte, cores e ícones próprios, com layout adaptado para PC e Android. As artes completas permanecem visíveis e os fundos são estáticos, sem animações contínuas. Disponível em Temas → Hatsune Miku. Inclui Android 1.6.40.
+
+Artes: KEI / iXima; Hatsune Miku © Crypton Future Media, INC. Créditos e fontes incluídos no aplicativo.
 
 ## Compatibilidade
 
