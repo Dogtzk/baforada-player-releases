@@ -4,9 +4,9 @@ Player feito por dogtzk. Os nomes dos temas dentro do aplicativo continuam como 
 
 ## Downloads
 
-[Baixar Windows 1.8.46](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.46/BafoPlayer-Setup-1.8.46.exe)
+[Baixar Windows 1.8.47](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.47/BafoPlayer-Setup-1.8.47.exe)
 
-[Baixar APK Android 1.6.41](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.46/BafoPlayer-Android-1.6.41.apk)
+[Baixar APK Android 1.6.42](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.47/BafoPlayer-Android-1.6.42.apk)
 
 ## Atualizações
 
@@ -14,7 +14,7 @@ O player verifica novas versões pelo próprio aplicativo. Em Configurações, p
 
 ## Nesta versão
 
-A fonte escolhida em Trocar fonte agora tem sua própria preferência na conta e acompanha a música entre PC e Android. Mudanças de metadados e buscas automáticas não substituem a escolha sincronizada. As fontes já registradas nos aparelhos são preservadas na atualização. Playlists e curtidas mantêm a mesma música. Se houver um download antigo, a reprodução online usa a nova fonte; o arquivo offline permanece no aparelho até ser removido ou baixado novamente. Atualize os dois aparelhos e entre na mesma conta. Inclui Android 1.6.41.
+Correções da transição gradual no Windows e Android. A troca automática confere novamente o ponto real da música após carregamentos e limita a mistura ao trecho final configurado. Voltar o tempo durante um carregamento cancela a troca antecipada. A faixa anterior continua na mistura até terminar; se já terminou, a próxima entra com volume normal. No Android, pausas e buffering congelam o relógio da transição, e a retomada mantém as duas faixas da mistura. Inclui Android 1.6.42.
 
 ## Compatibilidade
 
