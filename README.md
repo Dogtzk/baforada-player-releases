@@ -4,9 +4,9 @@ Player feito por dogtzk. Os nomes dos temas dentro do aplicativo continuam como 
 
 ## Downloads
 
-[Baixar Windows 1.8.47](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.47/BafoPlayer-Setup-1.8.47.exe)
+[Baixar Windows 1.8.48](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.48/BafoPlayer-Setup-1.8.48.exe)
 
-[Baixar APK Android 1.6.42](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.47/BafoPlayer-Android-1.6.42.apk)
+[Baixar APK Android 1.6.43](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.48/BafoPlayer-Android-1.6.43.apk)
 
 ## Atualizações
 
@@ -14,7 +14,7 @@ O player verifica novas versões pelo próprio aplicativo. Em Configurações, p
 
 ## Nesta versão
 
-Correções da transição gradual no Windows e Android. A troca automática confere novamente o ponto real da música após carregamentos e limita a mistura ao trecho final configurado. Voltar o tempo durante um carregamento cancela a troca antecipada. A faixa anterior continua na mistura até terminar; se já terminou, a próxima entra com volume normal. No Android, pausas e buffering congelam o relógio da transição, e a retomada mantém as duas faixas da mistura. Inclui Android 1.6.42.
+Busca por músicas do mesmo estilo mais rápida no PC e Android. As consultas independentes começam juntas; a tela carrega até duas seções em paralelo e mostra resultados parciais. Sugestões já obtidas são reaproveitadas e chamadas iguais compartilham a mesma busca. Uma resposta vazia deixa de ficar guardada por 30 minutos. Requisições demoradas têm limite de espera e liberam a fila. A identificação do estilo mantém os filtros contra gêneros sem relação. Inclui Android 1.6.43.
 
 ## Compatibilidade
 
