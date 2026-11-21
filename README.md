@@ -4,9 +4,9 @@ Player feito por dogtzk. Os nomes dos temas dentro do aplicativo continuam como 
 
 ## Downloads
 
-[Baixar Windows 1.8.49](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.49/BafoPlayer-Setup-1.8.49.exe)
+[Baixar Windows 1.8.50](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.50/BafoPlayer-Setup-1.8.50.exe)
 
-[Baixar APK Android 1.6.44](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.49/BafoPlayer-Android-1.6.44.apk)
+[Baixar APK Android 1.6.45](https://github.com/Dogtzk/baforada-player-releases/releases/download/v1.8.50/BafoPlayer-Android-1.6.45.apk)
 
 ## Atualizações
 
@@ -14,7 +14,7 @@ O player verifica novas versões pelo próprio aplicativo. Em Configurações, p
 
 ## Nesta versão
 
-Novo tema Yung Lixo com as quatro imagens enviadas e quatro variações: Sucesso FM, Validation Rádio, Memórias FM e Refúgio FM. Cada opção tem cores e ícones próprios, com arte inteira e layout adaptado para PC e Android. Fundos estáticos, sem animações contínuas. O seletor mostra a quantidade real de variações de cada tema. Disponível em Temas → Yung Lixo. Inclui Android 1.6.44.
+Adicionada a quinta variação do tema Yung Lixo: Bons Tempos FM. Visual noturno em roxo e cobre, com arte de Bons Tempos, ícone próprio e layout adaptado para PC e Android. As cinco variações ficam em Temas → Yung Lixo; Sucesso FM continua como primeira opção. Inclui Android 1.6.45.
 
 ## Compatibilidade
 
